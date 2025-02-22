@@ -5,6 +5,13 @@ Sometime it is hard to decide how crowds think about a youtube video.
 This is a tool that helps you summarize positive/negative youtube comments in to two separate word cloud. 
 This tool is mainly design for Mandarin video. However, it may be easy to modify this project into your language.
 
+## Requirement
+you can use
+```
+python3 install.py
+```
+to install all requirement you need
+
 ## How to run
 Use
 ```
